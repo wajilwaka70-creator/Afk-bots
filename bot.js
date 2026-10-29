@@ -2,9 +2,9 @@ const mineflayer = require('mineflayer');
 
 function createBot() {
     const bot = mineflayer.createBot({
-        host: 'nightfurymc.play.hosying', // مثال: play.myserver.com (امسح النص العربي واكتب الأيباي بين القوسين)
+        host: 'nightfurymc.play.hosting', // مثال: play.myserver.com (امسح النص العربي واكتب الأيباي بين القوسين)
         port: 25565,                // ضع بورت سيرفرك هنا
-        username: 'AFK_Bot_247',     // اسم البوت داخل السيرفر
+        username: 'NightFuryMC',     // اسم البوت داخل السيرفر
         version: false              // كشف إصدار السيرفر تلقائياً
     });
 
