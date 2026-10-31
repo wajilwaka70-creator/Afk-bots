@@ -37,6 +37,24 @@ const botsConfig = [
     username: 'NightFuryBoxPvP',
     host: 'nightfurycbox.play.hosting',         // <--- أيبي السيرفر الرابع
     port: 25565
+  },
+  
+  {
+    username: 'CPvP',
+    host: 'space-mcc.play.hosting',         // <--- أيبي السيرفر الرابع
+    port: 25565
+  },
+  
+  {
+    username: 'Lava',
+    host: 'space-mcc123box.play.hosting',         // <--- أيبي السيرفر الرابع
+    port: 25565
+  },
+  
+  {
+    username: 'Crystal',
+    host: 'space-mccccarena.play.hosting',         // <--- أيبي السيرفر الرابع
+    port: 25565
   }
 ];
 
