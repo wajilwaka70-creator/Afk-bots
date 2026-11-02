@@ -41,7 +41,7 @@ const botsConfig = [
   
   {
     username: 'CPvP',
-    host: 'space-mcc.play.hosting',         // <--- أيبي السيرفر الرابع
+    host: 'ispace-mc.play.hosting',         // <--- أيبي السيرفر الرابع
     port: 25565
   },
   
